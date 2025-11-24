@@ -1,4 +1,4 @@
-# Lab 2 — MapReduce
+# Lab 2 - MapReduce
 
 ## Implemented tasks
 
